@@ -15080,6 +15080,9 @@ function Eg() {
                     </div>
                     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/mecamarket.webp" alt="Capture du projet Mecamarket" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Marketplace automobile</div>
                         <h4 class="text-xl font-bold mb-2">Mecamarket</h4>
                         <a href="https://www.mecamarket.tn" target="_blank" rel="noreferrer" class="text-primary hover:underline text-sm font-medium">www.mecamarket.tn</a>
@@ -15095,6 +15098,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/deepinfluence.webp" alt="Capture du projet DeepInfluence" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Marketplace d'expertise</div>
                         <h4 class="text-xl font-bold mb-2">DeepInfluence</h4>
                         <a href="https://www.deepinfluence.net" target="_blank" rel="noreferrer" class="text-primary hover:underline text-sm font-medium">www.deepinfluence.net</a>
@@ -15110,6 +15116,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/megafacture.webp" alt="Capture du projet Mégafacture" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">SaaS comptable IA</div>
                         <h4 class="text-xl font-bold mb-2">Mégafacture</h4>
                         <a href="https://www.megafacture.tn" target="_blank" rel="noreferrer" class="text-primary hover:underline text-sm font-medium">www.megafacture.tn</a>
@@ -15125,6 +15134,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/apzien.webp" alt="Capture du projet Apzien" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">E-commerce spécialisé</div>
                         <h4 class="text-xl font-bold mb-2">Apzien</h4>
                         <span class="text-sm font-medium text-primary">URL publique à confirmer</span>
@@ -15139,6 +15151,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/bloom-venom.webp" alt="Capture du projet Bloom Venom" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Landing page biotech</div>
                         <h4 class="text-xl font-bold mb-2">Bloom Venom</h4>
                         <a href="https://www.bloomvenom.com" target="_blank" rel="noreferrer" class="text-primary hover:underline text-sm font-medium">www.bloomvenom.com</a>
@@ -15161,6 +15176,9 @@ function Eg() {
                       </div>
                       <h3 class="text-2xl font-bold mb-3">AI Pentest Agent</h3>
                       <p class="text-lg text-muted-foreground">Un agent intelligent de cybersécurité conçu pour auditer, protéger et surveiller les plateformes digitales avant que les menaces ne deviennent critiques.</p>
+                      <div class="overflow-hidden rounded-xl border border-border mt-6 bg-background">
+                        <img src="/assets/portfolio/ai-pentest-agent.webp" alt="Capture du projet AI Pentest Agent" loading="lazy" style="width:100%;height:260px;object-fit:cover;" />
+                      </div>
                     </div>
                     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
@@ -15201,6 +15219,9 @@ function Eg() {
                     </div>
                     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/gestion-commerciale.webp" alt="Capture du logiciel de gestion commerciale" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Desktop métier</div>
                         <h4 class="text-xl font-bold mb-2">Logiciel de gestion commerciale</h4>
                         <p class="text-muted-foreground mt-4">Solution complète pour fournisseurs industriels avec vision centralisée sur les ventes, achats, stocks et trésorerie.</p>
@@ -15215,6 +15236,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/dechets-encre.webp" alt="Capture de la solution de gestion des déchets d'encre" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Software & hardware</div>
                         <h4 class="text-xl font-bold mb-2">Gestion des déchets d'encre</h4>
                         <p class="text-muted-foreground mt-4">Système industriel combinant logiciel et équipements physiques pour suivre avec précision la consommation et les pertes.</p>
@@ -15229,6 +15253,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/gestion-production.webp" alt="Capture du logiciel de gestion de production" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Pilotage de production</div>
                         <h4 class="text-xl font-bold mb-2">Logiciel de gestion de production</h4>
                         <p class="text-muted-foreground mt-4">Application de pilotage de production industrielle conçue pour suivre les cycles et sécuriser les délais.</p>
@@ -15243,6 +15270,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/suivi-dechets.webp" alt="Capture de la plateforme de suivi des déchets" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Monitoring industriel</div>
                         <h4 class="text-xl font-bold mb-2">Suivi des déchets en temps réel</h4>
                         <p class="text-muted-foreground mt-4">Plateforme web de monitoring pour suivre les déchets par département et piloter les KPIs industriels et environnementaux.</p>
@@ -15257,6 +15287,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/plateforme-operationnelle.webp" alt="Capture de la plateforme opérationnelle" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">RH & opérations</div>
                         <h4 class="text-xl font-bold mb-2">Plateforme opérationnelle</h4>
                         <p class="text-muted-foreground mt-4">Solution de gestion des équipes et des opérations pour mieux coordonner les shifts, compétences et performances.</p>
@@ -15271,6 +15304,9 @@ function Eg() {
                       </div>
 
                       <div class="bg-muted/30 rounded-xl p-6 border border-border hover:border-primary/50 transition-all">
+                        <div class="overflow-hidden rounded-xl border border-border mb-4 bg-background">
+                          <img src="/assets/portfolio/gestion-facturation.webp" alt="Capture de la plateforme de gestion de facturation" loading="lazy" style="width:100%;height:220px;object-fit:cover;" />
+                        </div>
                         <div class="text-sm text-primary mb-2">Cycle de facturation</div>
                         <h4 class="text-xl font-bold mb-2">Plateforme de gestion de facturation</h4>
                         <p class="text-muted-foreground mt-4">Solution digitale pour fluidifier le passage de la demande client au devis, à la proforma puis à la facture finale.</p>
