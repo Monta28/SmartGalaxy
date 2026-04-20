@@ -14400,9 +14400,8 @@ function Eg() {
     ],
     Te = [
       {
-        name: "Starter",
-        price: "2500",
-        description: "Idéal pour les petites entreprises",
+        name: "Présence digitale",
+        description: "Pour un site vitrine, une landing page ou un lancement rapide",
         features: [
           "Site vitrine 5 pages",
           "Design responsive",
@@ -14414,9 +14413,8 @@ function Eg() {
         popular: !1,
       },
       {
-        name: "Business",
-        price: "5500",
-        description: "Le plus populaire pour les PME",
+        name: "Plateforme métier",
+        description: "Pour PME, e-commerce, portail de services ou outil métier",
         features: [
           "Site web 10 pages",
           "Design sur mesure",
@@ -14429,9 +14427,8 @@ function Eg() {
         popular: !0,
       },
       {
-        name: "Premium",
-        price: "12000",
-        description: "Solution complète pour entreprises",
+        name: "Solution sur mesure",
+        description: "Pour applications web complexes, SaaS et intégrations avancées",
         features: [
           "Site web illimité",
           "Application web complexe",
@@ -14505,7 +14502,7 @@ function Eg() {
                       onClick: () => W("tarifs"),
                       className:
                         "text-foreground hover:text-primary transition-colors",
-                      children: "Tarifs",
+                      children: "Devis",
                     }),
                     u.jsx("button", {
                       onClick: () => W("contact"),
@@ -14588,7 +14585,7 @@ function Eg() {
                   u.jsx("button", {
                     onClick: () => W("tarifs"),
                     className: "text-left hover:text-primary transition-colors",
-                    children: "Tarifs",
+                    children: "Devis",
                   }),
                   u.jsx("button", {
                     onClick: () => W("contact"),
@@ -15434,24 +15431,24 @@ function Eg() {
                     "inline-block px-4 py-2 rounded-full bg-primary/10 mb-4",
                   children: u.jsx("span", {
                     className: "text-sm font-medium text-primary",
-                    children: "Tarifs",
+                    children: "Devis",
                   }),
                 }),
                 u.jsxs("h2", {
                   className: "text-4xl md:text-5xl font-bold mb-6",
                   children: [
-                    "Des ",
+                    "Des offres ",
                     u.jsx("span", {
                       className: "gradient-text",
-                      children: "packages",
+                      children: "sur mesure",
                     }),
-                    " adaptés à vos besoins",
+                    " selon votre projet",
                   ],
                 }),
                 u.jsx("p", {
                   className: "text-lg text-muted-foreground",
                   children:
-                    "Choisissez le package qui correspond le mieux à votre projet",
+                    "Nous ne publions pas de prix fixes. Chaque besoin fait l'objet d'un cadrage et d'un devis personnalisé.",
                 }),
               ],
             }),
@@ -15470,7 +15467,7 @@ function Eg() {
                           children: u.jsx("div", {
                             className:
                               "bg-gradient-to-r from-primary to-secondary text-white px-4 py-1 rounded-full text-sm font-medium",
-                            children: "Le plus populaire",
+                            children: "Le plus demandé",
                           }),
                         }),
                       u.jsxs("div", {
@@ -15484,18 +15481,9 @@ function Eg() {
                             className: "text-muted-foreground text-sm mb-4",
                             children: E.description,
                           }),
-                          u.jsxs("div", {
-                            className: "flex items-baseline justify-center",
-                            children: [
-                              u.jsx("span", {
-                                className: "text-4xl font-bold gradient-text",
-                                children: E.price,
-                              }),
-                              u.jsx("span", {
-                                className: "text-muted-foreground ml-2",
-                                children: "TND",
-                              }),
-                            ],
+                          u.jsx("div", {
+                            className: "text-lg font-semibold gradient-text",
+                            children: "Sur devis",
                           }),
                         ],
                       }),
@@ -15524,7 +15512,8 @@ function Eg() {
                       u.jsx(We, {
                         className: `w-full ${E.popular ? "gradient-bg text-white" : ""}`,
                         variant: E.popular ? "default" : "outline",
-                        children: "Choisir ce package",
+                        onClick: () => W("contact"),
+                        children: "Demander un devis",
                       }),
                     ],
                   },
@@ -15537,7 +15526,8 @@ function Eg() {
               children: [
                 u.jsx("p", {
                   className: "text-muted-foreground mb-4",
-                  children: "Besoin d'un devis personnalisé ?",
+                  children:
+                    "Chaque projet est étudié selon votre besoin, votre périmètre et vos objectifs métier.",
                 }),
                 u.jsxs(We, {
                   onClick: () => W("contact"),
